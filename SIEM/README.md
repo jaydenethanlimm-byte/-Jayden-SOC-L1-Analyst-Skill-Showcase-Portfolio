@@ -1,5 +1,5 @@
 SIEM Investigation Labs
-————————————————————————————————
+
 TRYHACKME SIEM LABS:
 
 Alert Reporting Tasks:
