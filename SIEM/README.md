@@ -1,4 +1,7 @@
-TRYHACKME SIEM LABS:
+🛡️ SIEM (Security Information and Event Management) TRYHACKME LABS
+
+Short Explanation:
+In Here I Monitored, correlated, and analyzed centralized log data across simulated enterprise networks to detect real-time malicious activity. Developed an understanding of log aggregation, rule creation, and how to spot the early stages of an adversary lifecycle.
 
 Alert Reporting Tasks:
 
