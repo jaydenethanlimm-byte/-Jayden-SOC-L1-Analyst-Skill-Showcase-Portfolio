@@ -1,6 +1,6 @@
 SIEM Investigation Labs
-
-TryHackMe SIEM Dashboard Work:
+————————————————————————————————
+TRYHACKME SIEM LABS:
 
 Alert Reporting Tasks:
 
