@@ -10,7 +10,7 @@ Alert Reporting Tasks:
 <img width="2400" height="1080" alt="1000047988" src="https://github.com/user-attachments/assets/25d3b330-f0af-4fdf-8e10-56fbbc48a404" />
 
 
-————————————————————————————————————————
+—————————————————————————————————
 
 Alert Triaging Tasks:
 
